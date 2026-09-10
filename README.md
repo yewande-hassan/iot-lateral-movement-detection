@@ -39,7 +39,7 @@ For this baseline study, four attack categories were evaluated against benign tr
 | VulnerabilityScan | 0.47 | 0.91 | 0.71 |
 | MITM-ArpSpoofing | 0.29 | 0.86 | 0.62 |
 
-![Performance chart showing declining recall across attack types](results-chart.png)
+![Performance chart showing declining recall across attack types](result-chart.png)
 
 ### Key Observations
 
